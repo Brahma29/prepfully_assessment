@@ -1,0 +1,106 @@
+{
+  "days": [
+    {
+      "date": "2024-01-14",
+      "status": "available",
+      "spots": [
+        {
+          "status": "available",
+          "slotTime": "11:30 AM"
+        },
+        {
+          "status": "available",
+          "slotTime": "12:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "12:30 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "01:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "01:30 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "02:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "02:30 PM"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "status": "booked",
+      "spots": [
+        {
+          "status": "booked",
+          "slotTime": "11:30 AM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "12:00 PM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "12:30 PM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "01:00 PM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "01:30 PM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "02:00 PM"
+        },
+        {
+          "status": "booked",
+          "slotTime": "02:30 PM"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-16",
+      "status": "available",
+      "spots": [
+        {
+          "status": "available",
+          "slotTime": "11:30 AM"
+        },
+        {
+          "status": "available",
+          "slotTime": "12:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "12:30 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "01:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "01:30 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "02:00 PM"
+        },
+        {
+          "status": "available",
+          "slotTime": "02:30 PM"
+        }
+      ]
+    }
+  ]
+}
